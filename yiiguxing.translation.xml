@@ -1,12 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="权限" />
       <item value="duplicate attribute: @click " />
       <item value="详情" />
       <item value="岗 did you register the component correctly? For recursive components, make sure to provide the &quot;name&quot; option." />
       <item value="岗位" />
       <item value="比率" />
-      <item value="权限" />
       <item value="比例" />
       <item value="占比" />
       <item value="账号" />
@@ -18,7 +18,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="6" />
-        <entry key="ENGLISH" value="6" />
+        <entry key="ENGLISH" value="7" />
       </map>
     </option>
   </component>
