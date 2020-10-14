@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Invalid prop: type check failed for prop &quot;pageSize&quot;. Expected Number with value NaN, got Array   found in" />
       <item value="权限" />
       <item value="duplicate attribute: @click " />
       <item value="详情" />
@@ -17,7 +18,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6" />
+        <entry key="CHINESE" value="7" />
         <entry key="ENGLISH" value="7" />
       </map>
     </option>
