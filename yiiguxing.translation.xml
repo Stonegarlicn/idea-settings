@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="VM588:1 Uncaught SyntaxError: Invalid destructuring assignment target" />
       <item value="Invalid prop: type check failed for prop &quot;pageSize&quot;. Expected Number with value NaN, got Array   found in" />
       <item value="权限" />
       <item value="duplicate attribute: @click " />
