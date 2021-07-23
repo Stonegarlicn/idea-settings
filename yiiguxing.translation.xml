@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the expression type" />
       <item value="an iterable containing the result of the aggregation operation" />
       <item value="Creates a filter that matches all documents containing a field with geospatial data that is near the specified GeoJSON point." />
       <item value="Central class for creating queries. It follows a fluent API style so that you can easily chain together multiple * criteria. Static import of the 'Criteria.where' method will improve readability." />
@@ -24,8 +25,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="13" />
+        <entry key="CHINESE" value="13" />
+        <entry key="ENGLISH" value="14" />
       </map>
     </option>
   </component>
