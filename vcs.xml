@@ -6,6 +6,10 @@
           <option name="url" value="http://218.241.207.26:8888" />
           <option name="userName" value="ouyangchanghan" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.0.18:3000" />
+          <option name="userName" value="liangshunfei" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
