@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="@Override public void addResourceHandlers(ResourceHandlerRegistry registry) { registry.addResourceHandler(&quot;/**&quot;) //update-begin-author:taoyan date:20211116 for: jeecg.path.webapp配置无效 #3126 .addResourceLocations(&quot;file:&quot; + upLoadPath + &quot;//&quot;) .addResourceLocations(&quot;file:&quot; + webAppPath + &quot;//&quot;) //update-end-author:taoyan date:20211116 for: jeecg.path.webapp配置无效 #3126 .addResourceLocations(staticLocations.split(&quot;,&quot;)); } /** * 方案一： 默认访问根路径跳转 doc.html页面 （swagger文档页面） * 方案二： 访问根路径改成跳转 index.html页面 （简化部署方案： 可以把前端打包直接放到项目的 webapp，上面的配置） */ @Override public void addViewControllers(ViewControllerRegistry registry) { registry.addViewController(&quot;/&quot;).setViewName(&quot;doc.html&quot;); } @Bean @Conditional(CorsFilterCondition.class)" />
+      <item value="{ registry.addResourceHandler(&quot;/**&quot;) //update-begin-author:taoyan date:20211116 for: jeecg.path.webapp配置无效 #3126 .addResourceLocations(&quot;file:&quot; + upLoadPath + &quot;//&quot;) .addResourceLocations(&quot;file:&quot; + webAppPath + &quot;//&quot;) //update-end-author:taoyan date:20211116 for: jeecg.path.webapp配置无效 #3126 .addResourceLocations(staticLocations.split(&quot;,&quot;)); }" />
       <item value="the expression type" />
       <item value="an iterable containing the result of the aggregation operation" />
       <item value="Creates a filter that matches all documents containing a field with geospatial data that is near the specified GeoJSON point." />
